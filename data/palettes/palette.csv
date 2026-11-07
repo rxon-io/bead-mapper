@@ -1,0 +1,1147 @@
+brand,code,color_name,r,g,b
+Artkal,R01,White,255,255,255
+Artkal,R02,Burning sand,255,163,139
+Artkal,R03,Tangerine,246,176,76
+Artkal,R04,Orange,255,103,31
+Artkal,R05,Tall poppy,225,6,0
+Artkal,R06,Raspberry pink,236,134,208
+Artkal,R07,Gray,155,155,155
+Artkal,R08,Emerald,36,222,91
+Artkal,R09,Dark green,0,104,94
+Artkal,R10,Baby blue,65,182,230
+Artkal,R11,Dark blue,0,51,153
+Artkal,R12,Pastel lavender,160,94,181
+Artkal,R13,Black,0,0,0
+Artkal,R14,Sandstorm,250,224,83
+Artkal,R15,Redwood,122,62,44
+Artkal,R16,Brown,92,71,56
+Artkal,R17,Light brown,123,77,53
+Artkal,R18,Sand,204,153,102
+Artkal,R19,Bubblegum,252,191,169
+Artkal,R20,Green,36,158,107
+Artkal,R21,Pastel green,135,216,57
+Artkal,R22,Purple,51,0,114
+Artkal,R23,Royal purple,100,53,155
+Artkal,R24,True blue,20,123,209
+Artkal,R25,Hot pink,255,52,179
+Artkal,R26,Magenta,219,33,82
+Artkal,R27,Yellow,255,209,0
+Artkal,R28,Lily pink,234,184,228
+Artkal,R29,Pastel yellow,246,235,97
+Artkal,R30,Shadow green,153,214,234
+Artkal,R31,Sea mist,158,229,176
+Artkal,R32,Beeswax,255,231,128
+Artkal,R33,Maverick,197,180,227
+Artkal,R34,Red,186,12,47
+Artkal,R35,Mona Lisa,247,206,215
+Artkal,R36,Old pink,201,128,158
+Artkal,R37,Blue green,113,216,191
+Artkal,R38,Burgundy,171,37,86
+Artkal,R39,Yellow orange,237,139,0
+Artkal,R40,Carnation pink,241,167,220
+Artkal,R41,Copper,154,85,22
+Artkal,R42,Silver,160,159,157
+Artkal,R43,Dark gray,118,119,119
+Artkal,R44,Sky blue,170,220,235
+Artkal,R45,Medium turquoise,0,178,169
+Artkal,R46,Bright green,115,211,60
+Artkal,R47,Marigold,180,126,0
+Artkal,R48,Corn,255,199,44
+Artkal,R49,Mulberry wood,114,25,95
+Artkal,R50,Mandys pink,250,170,141
+Artkal,R51,Spring sun,252,251,205
+Artkal,R52,Picasso,242,240,161
+Artkal,R53,Blue enchantress,105,179,231
+Artkal,R54,Light blue,0,144,218
+Artkal,R55,Black rock,5,8,73
+Artkal,R56,Spring green,93,219,93
+Artkal,R57,Pistachio,173,220,145
+Artkal,R58,Canary,243,234,93
+Artkal,R59,Bright carrot,255,106,19
+Artkal,R60,Blaze orange,244,99,58
+Artkal,R61,Vanilla,243,207,179
+Artkal,R62,Scarleff,83,26,35
+Artkal,R63,Buccaneer,164,73,61
+Artkal,R64,Paprika,165,0,52
+Artkal,R65,Fresh red,188,4,35
+Artkal,R66,Lavender,167,123,202
+Artkal,R67,Yolk yellow,252,192,71
+Artkal,R68,Key lemon pie,206,220,0
+Artkal,R69,Green tea,0,124,88
+Artkal,R70,Metallic gold,88,87,53
+Artkal,R71,Tan,225,192,120
+Artkal,R72,Mine shaft,35,40,43
+Artkal,R73,Jade green,0,133,43
+Artkal,R74,Light sea blue,89,213,216
+Artkal,R75,Azure,0,174,214
+Artkal,R76,Sea blue,0,174,199
+Artkal,R77,Ghost white,239,239,239
+Artkal,R78,Ash gray,209,209,209
+Artkal,R79,Light gray,187,188,188
+Artkal,R80,Pastel orange,255,197,110
+Artkal,R81,Deer,205,178,119
+Artkal,R82,Clay,181,129,80
+Artkal,R83,Sienna,184,97,37
+Artkal,R84,Deep chestnut,170,87,97
+Artkal,R85,Red wine,92,19,27
+Artkal,R86,Goldenrod,234,170,0
+Artkal,R87,Coral red,255,109,106
+Artkal,R88,Charcoal gray,72,73,73
+Artkal,R89,Dark algae,155,188,17
+Artkal,R90,Dark olive,153,155,48
+Artkal,R91,Steel blue,72,169,197
+Artkal,R92,Dark steel blue,0,133,173
+Artkal,R93,Brunswick green,24,48,40
+Artkal,S01,White,255,255,255
+Artkal,S02,Burning sand,255,163,139
+Artkal,S03,Tangerine,246,176,76
+Artkal,S04,Orange,255,103,31
+Artkal,S05,Tall poppy,225,6,0
+Artkal,S06,Raspberry pink,236,134,208
+Artkal,S07,Gray,155,155,155
+Artkal,S08,Emerald,36,222,91
+Artkal,S09,Dark green,0,104,94
+Artkal,S10,Baby blue,65,182,230
+Artkal,S11,Dark blue,0,51,153
+Artkal,S12,Pastel lavender,160,94,181
+Artkal,S13,Black,0,0,0
+Artkal,S14,Sandstorm,250,224,83
+Artkal,S15,Redwood,122,62,44
+Artkal,S16,Brown,92,71,56
+Artkal,S17,Light brown,123,77,53
+Artkal,S18,Sand,204,153,102
+Artkal,S19,Bubblegum,252,191,169
+Artkal,S20,Green,36,158,107
+Artkal,S21,Pastel green,135,216,57
+Artkal,S22,Purple,51,0,114
+Artkal,S23,Royal purple,100,53,155
+Artkal,S24,True blue,20,123,209
+Artkal,S25,Hot pink,255,52,179
+Artkal,S26,Magenta,219,33,82
+Artkal,S27,Yellow,255,209,0
+Artkal,S28,Lily pink,234,184,228
+Artkal,S29,Pastel yellow,246,235,97
+Artkal,S30,Shadow green,153,214,234
+Artkal,S31,Sea mist,158,229,176
+Artkal,S32,Beeswax,255,231,128
+Artkal,S33,Maverick,197,180,227
+Artkal,S34,Red,186,12,47
+Artkal,S35,Mona Lisa,247,206,215
+Artkal,S36,Old pink,201,128,158
+Artkal,S37,Blue green,113,216,191
+Artkal,S38,Burgundy,171,37,86
+Artkal,S39,Yellow orange,237,139,0
+Artkal,S40,Carnation pink,241,167,220
+Artkal,S41,Copper,154,85,22
+Artkal,S42,Silver,160,159,157
+Artkal,S43,Dark gray,118,119,119
+Artkal,S44,Sky blue,170,220,235
+Artkal,S45,Medium turquoise,0,178,169
+Artkal,S46,Bright green,115,211,60
+Artkal,S47,Marigold,180,126,0
+Artkal,S48,Corn,255,199,44
+Artkal,S49,Mulberry wood,114,25,95
+Artkal,S50,Mandys pink,250,170,141
+Artkal,S51,Spring sun,252,251,205
+Artkal,S52,Picasso,242,240,161
+Artkal,S53,Blue enchantress,105,179,231
+Artkal,S54,Light blue,0,144,218
+Artkal,S55,Pistachio,173,220,145
+Artkal,S56,Bright carrot,255,106,19
+Artkal,S57,Buccaneer,164,73,61
+Artkal,S58,Paprika,165,0,52
+Artkal,S59,Butterfly bush,74,31,135
+Artkal,S60,Lavender,167,123,202
+Artkal,S61,Key lemon pie,206,220,0
+Artkal,S62,Green tea,0,124,88
+Artkal,S63,Metallic gold,88,87,53
+Artkal,S64,Black rock,5,8,73
+Artkal,S65,Canary,243,234,93
+Artkal,S66,Blaze orange,244,99,58
+Artkal,S67,Vanilla,243,207,179
+Artkal,S68,Tan,225,192,120
+Artkal,S69,Mine shaft,35,40,43
+Artkal,S70,Dark algae,155,188,17
+Artkal,S71,Jade green,0,133,43
+Artkal,S72,Light sea blue,89,213,216
+Artkal,S73,Steel blue,72,169,197
+Artkal,S74,Azure,0,174,214
+Artkal,S75,Dark steel blue,0,133,173
+Artkal,S76,Sea blue,0,174,199
+Artkal,S77,Ghost white,239,239,239
+Artkal,S78,Ash gray,209,209,209
+Artkal,S79,Light gray,187,188,188
+Artkal,S80,Dark olive,153,155,48
+Artkal,S81,Deer,205,178,119
+Artkal,S82,Clay,181,129,80
+Artkal,S83,Sienna,184,97,37
+Artkal,S84,Deep chestnut,170,87,97
+Artkal,S85,Red wine,92,19,27
+Artkal,S86,Goldenrod,234,170,0
+Artkal,S87,Coral red,255,109,106
+Artkal,S88,Dark pink,218,24,132
+Artkal,S89,Charcoal gray,72,73,73
+Artkal,S90,Pastel orange,255,197,110
+Artkal,S91,Brunswick green,24,48,40
+Artkal,S92,-,222,185,71
+Artkal,S93,-,218,182,152
+Artkal,S94,-,244,169,153
+Artkal,S95,-,238,125,103
+Artkal,S96,-,240,134,97
+Artkal,S97,-,212,114,42
+Artkal,S98,-,100,172,223
+Artkal,S99,-,100,194,220
+Artkal,S100,-,79,159,179
+Artkal,S101,-,49,150,221
+Artkal,S102,-,27,108,182
+Artkal,S103,-,8,57,128
+Artkal,S104,-,10,102,139
+Artkal,S105,-,8,91,110
+Artkal,S106,-,0,78,120
+Artkal,S107,-,0,85,116
+Artkal,S108,-,204,190,128
+Artkal,S109,-,164,147,80
+Artkal,S110,-,158,136,60
+Artkal,S111,-,118,108,43
+Artkal,S112,-,121,95,38
+Artkal,S113,-,186,184,162
+Artkal,S114,-,114,140,84
+Artkal,S115,-,126,124,68
+Artkal,S116,-,100,105,46
+Artkal,S117,-,78,88,44
+Artkal,S118,-,74,94,45
+Artkal,S119,-,113,196,182
+Artkal,S120,-,102,204,153
+Artkal,S121,-,86,154,131
+Artkal,S122,-,20,164,91
+Artkal,S123,-,24,168,24
+Artkal,S124,-,4,85,46
+Artkal,S125,-,19,107,90
+Artkal,S126,-,5,70,65
+Artkal,S127,-,217,182,214
+Artkal,S128,-,173,98,164
+Artkal,S129,-,230,140,163
+Artkal,S130,-,222,84,121
+Artkal,S131,-,158,130,186
+Artkal,S132,-,232,65,107
+Artkal,S133,-,183,56,143
+Artkal,S134,-,88,31,126
+Artkal,S135,-,140,163,212
+Artkal,S136,-,154,154,204
+Artkal,S137,-,89,129,193
+Artkal,S138,-,65,102,176
+Artkal,S139,-,71,95,171
+Artkal,S140,-,55,69,147
+Artkal,S141,-,61,86,165
+Artkal,S142,-,41,66,153
+Artkal,S143,-,37,38,138
+Artkal,S144,-,26,47,111
+Artkal,S145,-,211,201,93
+Artkal,S146,-,81,9,24
+Artkal,S147,-,100,179,158
+Artkal,S148,-,99,67,56
+Artkal,S149,-,237,211,158
+Artkal,S150,-,105,99,171
+Artkal,S151,-,43,63,31
+Artkal,S152,-,151,145,197
+Artkal,S153,-,184,189,224
+Artkal,S154,-,249,200,152
+Artkal,S155,-,195,144,105
+Artkal,S156,-,68,80,91
+Artkal,S157,-,62,73,85
+Artkal,S158,-,32,40,48
+Artkal,S159,Oslo gray,136,139,141
+Artkal,ST1,Clear,199,188,184
+Artkal,ST2,Clear pink,249,84,152
+Artkal,ST3,Clear orange,255,124,69
+Artkal,ST4,Clear yellow,218,223,61
+Artkal,ST5,Clear green,15,174,88
+Artkal,ST6,Clear purple,132,119,179
+Artkal,SL1,Glitter blue,54,135,178
+Artkal,SL2,Glitter green,17,124,82
+Artkal,SL3,Glitter red,194,41,51
+Artkal,SL4,Glitter yellow,205,189,0
+Artkal,SP1,Pearl green,147,202,135
+Artkal,SP2,Pearl orange,254,127,84
+Artkal,SP3,Pearl yellow,240,161,73
+Artkal,SP4,Pearl pink,220,158,169
+Artkal,SP5,Pearl red,214,60,83
+Artkal,SP6,Pearl blue,44,78,151
+Artkal,SP7,Pearl purple,100,66,126
+Artkal,SP8,Pearl white,224,219,202
+Artkal,SG1,Glow in the dark yellow,198,192,180
+Artkal,SG2,Glow in the dark pink,223,171,188
+Artkal,SG3,Glow in the dark blue,111,173,193
+Artkal,SN1,Neon orange,255,116,5
+Artkal,SN2,Neon green,1,198,62
+Artkal,SN3,Neon yellow,242,243,60
+Artkal,SN4,Neon pink,255,71,122
+Artkal,A01,White,255,255,255
+Artkal,A02,Black,0,0,0
+Artkal,A03,Tangerine,246,176,76
+Artkal,A04,Yellow orange,237,139,0
+Artkal,A05,Tall poppy,225,6,0
+Artkal,A06,Red,186,12,47
+Artkal,A07,Carnation pink,241,167,220
+Artkal,A08,Hot pink,255,52,179
+Artkal,A09,Magenta,219,33,82
+Artkal,A10,Picasso,242,240,161
+Artkal,A11,Yellow,255,209,0
+Artkal,A12,Pistachio,173,220,145
+Artkal,A13,Pastel green,135,216,57
+Artkal,A14,Green,36,158,107
+Artkal,A15,Green tea,0,124,88
+Artkal,A16,Bright carrot,255,106,19
+Artkal,A17,Orange,255,103,31
+Artkal,A18,Sky blue,170,220,235
+Artkal,A19,Baby blue,65,182,230
+Artkal,A20,Light blue,0,144,218
+Artkal,A21,Dark blue,0,51,153
+Artkal,A22,Bubblegum,252,191,169
+Artkal,A23,Sand,204,153,102
+Artkal,A24,Beeswax,255,231,128
+Artkal,A25,Lavender,167,123,202
+Artkal,A26,Pastel lavender,160,94,181
+Artkal,A27,Purple,51,0,114
+Artkal,A28,Marigold,180,126,0
+Artkal,A29,Buccaneer,164,73,61
+Artkal,A30,Redwood,122,62,44
+Artkal,A31,Light brown,123,77,53
+Artkal,A32,Brown,92,71,56
+Artkal,A33,Gray,155,155,155
+Artkal,A34,Dark gray,118,119,119
+Artkal,A35,Silver,160,159,157
+Artkal,A36,Old pink,201,128,158
+Artkal,A37,True blue,20,123,209
+Artkal,A38,Blue enchantress,105,179,231
+Artkal,A39,Shadow green,153,214,234
+Artkal,A40,Key lemon pie,206,220,0
+Artkal,A41,Pastel yellow,246,235,97
+Artkal,A42,Sandstorm,250,224,83
+Artkal,A43,Paprika,165,0,52
+Artkal,A44,Burning sand,255,163,139
+Artkal,A45,Spring green,93,219,93
+Artkal,A46,Canary,243,234,93
+Artkal,A47,Vanilla,243,207,179
+Artkal,A48,Corn,255,199,44
+Artkal,A49,Raspberry pink,236,134,208
+Artkal,A50,Maverick,197,180,227
+Artkal,A51,Spring sun,252,251,205
+Artkal,A52,Butterfly bush,74,31,135
+Artkal,A53,Bright green,115,211,60
+Artkal,A54,Medium turquoise,0,178,169
+Artkal,A55,Conifer,108,194,74
+Artkal,A56,Oslo gray,136,139,141
+Artkal,A57,Fresh red,188,4,35
+Artkal,A58,Black rock,5,8,73
+Artkal,A59,Scarleff,83,26,35
+Artkal,A60,Sea mist,158,229,176
+Artkal,A61,Feta,241,235,156
+Artkal,A62,Carnation,252,63,63
+Artkal,A63,Pink pearl,234,190,219
+Artkal,A64,Rose,165,0,80
+Artkal,A65,Mango,239,126,46
+Artkal,A66,Wild watermelon,252,108,133
+Artkal,A67,Orchid,177,78,181
+Artkal,A68,Toothpaste blue,105,194,238
+Artkal,A69,Mine shaft,35,40,43
+Artkal,A70,Brunswick green,24,48,40
+Artkal,A71,Goldenrod,234,170,0
+Artkal,A72,Pastel orange,255,197,110
+Artkal,A73,Sienna,184,97,37
+Artkal,A74,Deer,205,178,119
+Artkal,A75,Clay,181,129,80
+Artkal,A76,Coral red,255,109,106
+Artkal,A77,Deep chestnut,170,87,97
+Artkal,A78,Red wine,92,19,27
+Artkal,A79,Light sea blue,89,213,216
+Artkal,A80,Sea blue,0,174,199
+Artkal,A81,Steel blue,72,169,197
+Artkal,A82,Azure,0,174,214
+Artkal,A83,Dark steel blue,0,133,173
+Artkal,A84,Dark algae,155,188,17
+Artkal,A85,Dark olive,153,155,48
+Artkal,A86,Jade green,0,133,43
+Artkal,A87,Ghost white,239,239,239
+Artkal,A88,Ash gray,209,209,209
+Artkal,A89,Light gray,187,188,188
+Artkal,A90,Charcoal gray,72,73,73
+Artkal,A91,-,222,185,71
+Artkal,A92,-,218,182,152
+Artkal,A93,-,244,169,153
+Artkal,A94,-,238,125,103
+Artkal,A95,-,240,134,97
+Artkal,A96,-,212,114,42
+Artkal,A97,-,100,172,223
+Artkal,A98,-,100,194,220
+Artkal,A99,-,79,159,179
+Artkal,A100,-,49,150,221
+Artkal,A101,-,27,108,182
+Artkal,A102,-,8,57,128
+Artkal,A103,-,10,102,139
+Artkal,A104,-,8,91,110
+Artkal,A105,-,0,78,120
+Artkal,A106,-,0,85,116
+Artkal,A107,-,204,190,128
+Artkal,A108,-,164,147,80
+Artkal,A109,-,158,136,60
+Artkal,A110,-,118,108,43
+Artkal,A111,-,121,95,38
+Artkal,A112,-,186,184,162
+Artkal,A113,-,114,140,84
+Artkal,A114,-,126,124,68
+Artkal,A115,-,100,105,46
+Artkal,A116,-,78,88,44
+Artkal,A117,-,74,94,45
+Artkal,A118,-,113,196,182
+Artkal,A119,-,102,204,153
+Artkal,A120,-,86,154,131
+Artkal,A121,-,20,164,91
+Artkal,A122,-,24,168,24
+Artkal,A123,-,4,85,46
+Artkal,A124,-,19,107,90
+Artkal,A125,-,5,70,65
+Artkal,A126,-,217,182,214
+Artkal,A127,-,173,98,164
+Artkal,A128,-,230,140,163
+Artkal,A129,-,222,84,121
+Artkal,A130,-,158,130,186
+Artkal,A131,-,232,65,107
+Artkal,A132,-,183,56,143
+Artkal,A133,-,88,31,126
+Artkal,A134,-,140,163,212
+Artkal,A135,-,154,154,204
+Artkal,A136,-,89,129,193
+Artkal,A137,-,65,102,176
+Artkal,A138,-,71,95,171
+Artkal,A139,-,55,69,147
+Artkal,A140,-,61,86,165
+Artkal,A141,-,41,66,153
+Artkal,A142,-,37,38,138
+Artkal,A143,-,26,47,111
+Artkal,A144,-,211,201,93
+Artkal,A145,-,81,9,24
+Artkal,A146,-,100,179,158
+Artkal,A147,-,99,67,56
+Artkal,A148,-,237,211,158
+Artkal,A149,-,105,99,171
+Artkal,A150,-,43,63,31
+Artkal,A151,-,151,145,197
+Artkal,A152,-,184,189,224
+Artkal,A153,-,249,200,152
+Artkal,A154,-,195,144,105
+Artkal,A155,-,68,80,91
+Artkal,A156,-,62,73,85
+Artkal,A157,-,32,40,48
+Artkal,C01,White,255,255,255
+Artkal,C02,Black,0,0,0
+Artkal,C03,Tangerine,246,176,76
+Artkal,C04,Yellow orange,237,139,0
+Artkal,C05,Tall poppy,225,6,0
+Artkal,C06,Red,186,12,47
+Artkal,C07,Carnation pink,241,167,220
+Artkal,C08,Hot pink,255,52,179
+Artkal,C09,Magenta,219,33,82
+Artkal,C10,Picasso,242,240,161
+Artkal,C11,Yellow,255,209,0
+Artkal,C12,Pistachio,173,220,145
+Artkal,C13,Pastel green,135,216,57
+Artkal,C14,Green,36,158,107
+Artkal,C15,Green tea,0,124,88
+Artkal,C16,Bright carrot,255,106,19
+Artkal,C17,Orange,255,103,31
+Artkal,C18,Sky blue,170,220,235
+Artkal,C19,Baby blue,65,182,230
+Artkal,C20,Light blue,0,144,218
+Artkal,C21,Dark blue,0,51,153
+Artkal,C22,Bubblegum,252,191,169
+Artkal,C23,Sand,204,153,102
+Artkal,C24,Beeswax,255,231,128
+Artkal,C25,Lavender,167,123,202
+Artkal,C26,Pastel lavender,160,94,181
+Artkal,C27,Purple,51,0,114
+Artkal,C28,Marigold,180,126,0
+Artkal,C29,Buccaneer,164,73,61
+Artkal,C30,Redwood,122,62,44
+Artkal,C31,Light brown,123,77,53
+Artkal,C32,Brown,92,71,56
+Artkal,C33,Gray,155,155,155
+Artkal,C34,Dark gray,118,119,119
+Artkal,C35,Silver,160,159,157
+Artkal,C36,Old pink,201,128,158
+Artkal,C37,True blue,20,123,209
+Artkal,C38,Blue enchantress,105,179,231
+Artkal,C39,Shadow green,153,214,234
+Artkal,C40,Key lemon pie,206,220,0
+Artkal,C41,Pastel yellow,246,235,97
+Artkal,C42,Sandstorm,250,224,83
+Artkal,C43,Paprika,165,0,52
+Artkal,C44,Burning sand,255,163,139
+Artkal,C45,Spring green,93,219,93
+Artkal,C46,Canary,243,234,93
+Artkal,C47,Vanilla,243,207,179
+Artkal,C48,Corn,255,199,44
+Artkal,C49,Raspberry pink,236,134,208
+Artkal,C50,Maverick,197,180,227
+Artkal,C51,Spring sun,252,251,205
+Artkal,C52,Butterfly bush,74,31,135
+Artkal,C53,Bright green,115,211,60
+Artkal,C54,Medium turquoise,0,178,169
+Artkal,C55,Conifer,108,194,74
+Artkal,C56,Oslo gray,136,139,141
+Artkal,C57,Fresh red,188,4,35
+Artkal,C58,Black rock,5,8,73
+Artkal,C59,Scarleff,83,26,35
+Artkal,C60,Sea mist,158,229,176
+Artkal,C61,Feta,241,235,156
+Artkal,C62,Carnation,252,63,63
+Artkal,C63,Pink pearl,234,190,219
+Artkal,C64,Rose,165,0,80
+Artkal,C65,Mango,239,126,46
+Artkal,C66,Wild watermelon,252,108,133
+Artkal,C67,Orchid,177,78,181
+Artkal,C68,Toothpaste blue,105,194,238
+Artkal,C69,Mine shaft,35,40,43
+Artkal,C70,Brunswick green,24,48,40
+Artkal,C71,Goldenrod,234,170,0
+Artkal,C72,Pastel orange,255,197,110
+Artkal,C73,Sienna,184,97,37
+Artkal,C74,Deer,205,178,119
+Artkal,C75,Clay,181,129,80
+Artkal,C76,Coral red,255,109,106
+Artkal,C77,Deep chestnut,170,87,97
+Artkal,C78,Red wine,92,19,27
+Artkal,C79,Light sea blue,89,213,216
+Artkal,C80,Sea blue,0,174,199
+Artkal,C81,Steel blue,72,169,197
+Artkal,C82,Azure,0,174,214
+Artkal,C83,Dark steel blue,0,133,173
+Artkal,C84,Dark algae,155,188,17
+Artkal,C85,Dark olive,153,155,48
+Artkal,C86,Jade green,0,133,43
+Artkal,C87,Ghost white,239,239,239
+Artkal,C88,Ash gray,209,209,209
+Artkal,C89,Light gray,187,188,188
+Artkal,C90,Charcoal gray,72,73,73
+Artkal,C91,-,222,185,71
+Artkal,C92,-,218,182,152
+Artkal,C93,-,244,169,153
+Artkal,C94,-,238,125,103
+Artkal,C95,-,240,134,97
+Artkal,C96,-,212,114,42
+Artkal,C97,-,100,172,223
+Artkal,C98,-,100,194,220
+Artkal,C99,-,79,159,179
+Artkal,C100,-,49,150,221
+Artkal,C101,-,27,108,182
+Artkal,C102,-,8,57,128
+Artkal,C103,-,10,102,139
+Artkal,C104,-,8,91,110
+Artkal,C105,-,0,78,120
+Artkal,C106,-,0,85,116
+Artkal,C107,-,204,190,128
+Artkal,C108,-,164,147,80
+Artkal,C109,-,158,136,60
+Artkal,C110,-,118,108,43
+Artkal,C111,-,121,95,38
+Artkal,C112,-,186,184,162
+Artkal,C113,-,114,140,84
+Artkal,C114,-,126,124,68
+Artkal,C115,-,100,105,46
+Artkal,C116,-,78,88,44
+Artkal,C117,-,74,94,45
+Artkal,C118,-,113,196,182
+Artkal,C119,-,102,204,153
+Artkal,C120,-,86,154,131
+Artkal,C121,-,20,164,91
+Artkal,C122,-,24,168,24
+Artkal,C123,-,4,85,46
+Artkal,C124,-,19,107,90
+Artkal,C125,-,5,70,65
+Artkal,C126,-,217,182,214
+Artkal,C127,-,173,98,164
+Artkal,C128,-,230,140,163
+Artkal,C129,-,222,84,121
+Artkal,C130,-,158,130,186
+Artkal,C131,-,232,65,107
+Artkal,C132,-,183,56,143
+Artkal,C133,-,88,31,126
+Artkal,C134,-,140,163,212
+Artkal,C135,-,154,154,204
+Artkal,C136,-,89,129,193
+Artkal,C137,-,65,102,176
+Artkal,C138,-,71,95,171
+Artkal,C139,-,55,69,147
+Artkal,C140,-,61,86,165
+Artkal,C141,-,41,66,153
+Artkal,C142,-,37,38,138
+Artkal,C143,-,26,47,111
+Artkal,C144,-,211,201,93
+Artkal,C145,-,81,9,24
+Artkal,C146,-,100,179,158
+Artkal,C147,-,99,67,56
+Artkal,C148,-,237,211,158
+Artkal,C149,-,105,99,171
+Artkal,C150,-,43,63,31
+Artkal,C151,-,151,145,197
+Artkal,C152,-,184,189,224
+Artkal,C153,-,249,200,152
+Artkal,C154,-,195,144,105
+Artkal,C155,-,68,80,91
+Artkal,C156,-,62,73,85
+Artkal,C157,-,32,40,48
+Hama,H01,White,236,237,237
+Hama,H02,Cream,240,232,185
+Hama,H03,Yellow,240,185,1
+Hama,H04,Orange,230,79,39
+Hama,H05,Red,182,49,54
+Hama,H06,Pink,225,136,159
+Hama,H07,Purple,105,74,130
+Hama,H08,Blue,44,70,144
+Hama,H09,Light blue,48,92,176
+Hama,H10,Green,37,104,71
+Hama,H11,Light green,73,174,137
+Hama,H12,Brown,83,65,55
+Hama,H13,Translucent red,192,36,53
+Hama,H16,Translucent green,55,184,118
+Hama,H17,Grey,131,136,138
+Hama,H18,Black,46,47,49
+Hama,H19,Clear,216,210,206
+Hama,H20,Reddish brown,127,51,42
+Hama,H21,Light brown,165,105,63
+Hama,H22,Dark red,165,45,54
+Hama,H24,Translucent purple,104,62,154
+Hama,H25,Translucent brown,135,89,61
+Hama,H26,Flesh,222,155,144
+Hama,H27,Beige,222,180,139
+Hama,H28,Dark green,54,63,56
+Hama,H29,Claret,185,57,94
+Hama,H30,Burgundy,89,47,56
+Hama,H31,Turquoise,103,151,174
+Hama,H32,Neon fuchsia,255,32,141
+Hama,H33,Fluorescent cerise,255,57,86
+Hama,H34,Neon yellow,229,239,19
+Hama,H35,Neon red,255,40,51
+Hama,H36,Neon blue,35,83,176
+Hama,H37,Neon green,6,183,60
+Hama,H38,Neon orange,253,134,0
+Hama,H39,Fluorescent yellow,241,242,28
+Hama,H40,Fluorescent orange,254,99,11
+Hama,H41,Fluroescent blue,38,89,178
+Hama,H42,Fluorescent green,12,189,81
+Hama,H43,Pastel yellow,240,234,55
+Hama,H44,Pastel red,238,105,114
+Hama,H45,Pastel purple,136,109,185
+Hama,H46,Pastel blue,98,158,215
+Hama,H47,Pastel green,131,203,112
+Hama,H48,Pastel pink,207,112,183
+Hama,H49,Azure,73,152,188
+Hama,H60,Teddybear brown,244,148,34
+Hama,H70,Light grey,180,185,188
+Hama,H71,Dark grey,64,64,64
+Hama,H75,Tan,200,171,147
+Hama,H76,Nougat,140,100,75
+Hama,H01,White,236,237,237
+Hama,H02,Cream,240,232,185
+Hama,H03,Yellow,240,185,1
+Hama,H04,Orange,230,79,39
+Hama,H05,Red,182,49,54
+Hama,H06,Pink,225,136,159
+Hama,H07,Purple,105,74,130
+Hama,H08,Blue,44,70,144
+Hama,H09,Light blue,48,92,176
+Hama,H10,Green,37,104,71
+Hama,H11,Light green,73,174,137
+Hama,H12,Brown,83,65,55
+Hama,H13,Translucent red,192,36,53
+Hama,H16,Translucent green,55,184,118
+Hama,H17,Grey,131,136,138
+Hama,H18,Black,46,47,49
+Hama,H19,Clear,216,210,206
+Hama,H20,Reddish brown,127,51,42
+Hama,H21,Light brown,165,105,63
+Hama,H22,Dark red,165,45,54
+Hama,H24,Translucent purple,104,62,154
+Hama,H25,Translucent brown,135,89,61
+Hama,H26,Flesh,222,155,144
+Hama,H27,Beige,222,180,139
+Hama,H28,Dark green,54,63,56
+Hama,H29,Claret,185,57,94
+Hama,H30,Burgundy,89,47,56
+Hama,H31,Turquoise,103,151,174
+Hama,H32,Neon fuchsia,255,32,141
+Hama,H33,Fluorescent cerise,255,57,86
+Hama,H34,Neon yellow,229,239,19
+Hama,H35,Neon red,255,40,51
+Hama,H36,Neon blue,35,83,176
+Hama,H37,Neon green,6,183,60
+Hama,H38,Neon orange,253,134,0
+Hama,H39,Fluorescent yellow,241,242,28
+Hama,H40,Fluorescent orange,254,99,11
+Hama,H41,Fluroescent blue,38,89,178
+Hama,H42,Fluorescent green,12,189,81
+Hama,H43,Pastel yellow,240,234,55
+Hama,H44,Pastel red,238,105,114
+Hama,H45,Pastel purple,136,109,185
+Hama,H46,Pastel blue,98,158,215
+Hama,H47,Pastel green,131,203,112
+Hama,H48,Pastel pink,207,112,183
+Hama,H49,Azure,73,152,188
+Hama,H60,Teddybear brown,244,148,34
+Hama,H70,Light grey,182,182,212
+Hama,H71,Dark grey,70,69,65
+Perler,P01,White,241,241,241
+Perler,P02,Creme,224,222,169
+Perler,P03,Yellow,236,216,0
+Perler,P04,Orange,237,97,32
+Perler,P05,Red,191,46,64
+Perler,P06,Bubblegum,221,102,155
+Perler,P07,Purple,96,64,137
+Perler,P08,Dark blue,43,63,135
+Perler,P09,Light blue,51,112,192
+Perler,P10,Dark green,28,117,62
+Perler,P11,Light green,86,186,159
+Perler,P12,Brown,81,57,49
+Perler,P17,Grey,138,141,145
+Perler,P18,Black,46,47,50
+Perler,P20,Rust,140,55,44
+Perler,P21,Light brown,129,93,52
+Perler,P33,Peach,238,186,178
+Perler,P35,Tan,188,147,113
+Perler,P38,Magenta,242,42,123
+Perler,P47,Neon yellow,220,224,2
+Perler,P48,Neon orange,255,119,0
+Perler,P49,Neon green,1,158,67
+Perler,P50,Neon pink,255,57,145
+Perler,P52,Pastel blue,83,144,209
+Perler,P53,Pastel green,118,200,130
+Perler,P54,Pastel lavender,138,114,193
+Perler,P56,Pastel yellow,254,248,117
+Perler,P57,Cheddar,241,170,12
+Perler,P58,Toothpaste,147,200,212
+Perler,P59,Hot coral,255,56,81
+Perler,P60,Plum,162,75,156
+Perler,P61,Kiwi lime,108,190,19
+Perler,P62,Turquoise,43,137,198
+Perler,P63,Blush,255,130,133
+Perler,P70,Periwinkle blue,100,124,190
+Perler,P75,Glow in the dark green,190,198,150
+Perler,P79,Light pink,246,179,221
+Perler,P80,Green,79,173,66
+Perler,P83,Pink,228,72,146
+Perler,P85,Gold metallic,187,118,52
+Perler,P88,Raspberry,165,48,97
+Perler,P90,Butterscotch,212,132,55
+Perler,P91,Parrot green,6,124,129
+Perler,P92,Dark grey,77,81,86
+Perler,P93,Blueberry cream,130,151,217
+Perler,P96,Cranapple,128,50,69
+Perler,P97,Prickly pear,189,218,1
+Perler,P98,Sand,228,182,144
+Perler,P100,Pearl coral,249,126,121
+Perler,P101,Pearl light blue,122,174,162
+Perler,P102,Pearl green,132,183,145
+Perler,P103,Pearl yellow,202,192,51
+Perler,P104,Pearl light pink,215,168,162
+Perler,P105,Pearl silver,119,123,129
+Perler,P179,Evergreen,53,83,67
+Perler,P181,Light grey (new),177,181,178
+Perler,P182,Light lavender,173,152,212
+Nabbi,N01,Black,58,61,65
+Nabbi,N02,Dark brown,80,68,59
+Nabbi,N03,Chestnut,90,62,54
+Nabbi,N04,Wine red,129,53,71
+Nabbi,N05,Rust,167,98,36
+Nabbi,N06,Cappuccino,173,150,126
+Nabbi,N07,Skin,238,177,130
+Nabbi,N08,Grey,141,139,127
+Nabbi,N09,Dark green,47,74,57
+Nabbi,N10,Light grey,211,203,203
+Nabbi,N11,Purple,100,69,145
+Nabbi,N12,Light beige,226,208,191
+Nabbi,N13,Orange,243,96,27
+Nabbi,N14,Yellow,249,202,0
+Nabbi,N15,White,244,244,243
+Nabbi,N16,Green,41,122,59
+Nabbi,N17,Clear blue,59,117,203
+Nabbi,N18,Antique pink,225,180,171
+Nabbi,N19,Red,223,38,56
+Nabbi,N20,Light brown,181,139,105
+Nabbi,N21,Light yellow,245,236,141
+Nabbi,N22,Light green,72,175,79
+Nabbi,N23,Blue,113,163,230
+Nabbi,N24,Light purple,182,160,219
+Nabbi,N25,Pink,238,106,151
+Nabbi,N26,Apricot,252,168,121
+Nabbi,N27,Brown,135,95,82
+Nabbi,N28,Light blue,167,198,241
+Nabbi,N29,Light orange,238,149,39
+Nabbi,N30,Olive green,199,191,94
+Artkal,S01,White,255,255,255
+Artkal,S02,Burning sand,255,163,139
+Artkal,S03,Tangerine,246,176,76
+Artkal,S04,Orange,255,103,31
+Artkal,S05,Tall poppy,225,6,0
+Artkal,S06,Raspberry pink,236,134,208
+Artkal,S07,Gray,155,155,155
+Artkal,S08,Emerald,36,222,91
+Artkal,S09,Dark green,0,104,94
+Artkal,S10,Baby blue,65,182,230
+Artkal,S11,Dark blue,0,51,153
+Artkal,S12,Pastel lavender,160,94,181
+Artkal,S13,Black,0,0,0
+Artkal,S14,Sandstorm,250,224,83
+Artkal,S15,Redwood,122,62,44
+Artkal,S16,Brown,92,71,56
+Artkal,S17,Light brown,123,77,53
+Artkal,S18,Sand,204,153,102
+Artkal,S19,Bubblegum,252,191,169
+Artkal,S20,Green,36,158,107
+Artkal,S21,Pastel green,135,216,57
+Artkal,S22,Purple,51,0,114
+Artkal,S23,Royal purple,100,53,155
+Artkal,S24,True blue,20,123,209
+Artkal,S25,Hot pink,255,52,179
+Artkal,S26,Magenta,219,33,82
+Artkal,S27,Yellow,255,209,0
+Artkal,S28,Lily pink,234,184,228
+Artkal,S29,Pastel yellow,246,235,97
+Artkal,S30,Shadow green,153,214,234
+Artkal,S31,Sea mist,158,229,176
+Artkal,S32,Beeswax,255,231,128
+Artkal,S33,Maverick,197,180,227
+Artkal,S34,Red,186,12,47
+Artkal,S35,Mona Lisa,247,206,215
+Artkal,S36,Old pink,201,128,158
+Artkal,S37,Blue green,113,216,191
+Artkal,S38,Burgundy,171,37,86
+Artkal,S39,Yellow orange,237,139,0
+Artkal,S40,Carnation pink,241,167,220
+Artkal,S41,Copper,154,85,22
+Artkal,S42,Silver,160,159,157
+Artkal,S43,Dark gray,118,119,119
+Artkal,S44,Sky blue,170,220,235
+Artkal,S45,Medium turquoise,0,178,169
+Artkal,S46,Bright green,115,211,60
+Artkal,S47,Marigold,180,126,0
+Artkal,S48,Corn,255,199,44
+Artkal,S49,Mulberry wood,114,25,95
+Artkal,S50,Mandys pink,250,170,141
+Artkal,S51,Spring sun,252,251,205
+Artkal,S52,Picasso,242,240,161
+Artkal,S53,Blue enchantress,105,179,231
+Artkal,S54,Light blue,0,144,218
+Artkal,S55,Pistachio,173,220,145
+Artkal,S56,Bright carrot,255,106,19
+Artkal,S57,Buccaneer,164,73,61
+Artkal,S58,Paprika,165,0,52
+Artkal,S59,Butterfly bush,74,31,135
+Artkal,S60,Lavender,167,123,202
+Artkal,S61,Key lemon pie,206,220,0
+Artkal,S62,Green tea,0,124,88
+Artkal,S63,Metallic gold,88,87,53
+Artkal,S64,Black rock,5,8,73
+Artkal,S65,Canary,243,234,93
+Artkal,S66,Blaze orange,244,99,58
+Artkal,S67,Vanilla,243,207,179
+Artkal,S68,Tan,225,192,120
+Artkal,S69,Mine shaft,35,40,43
+Artkal,S70,Dark algae,155,188,17
+Artkal,S71,Jade green,0,133,43
+Artkal,S72,Light sea blue,89,213,216
+Artkal,S73,Steel blue,72,169,197
+Artkal,S74,Azure,0,174,214
+Artkal,S75,Dark steel blue,0,133,173
+Artkal,S76,Sea blue,0,174,199
+Artkal,S77,Ghost white,239,239,239
+Artkal,S78,Ash gray,209,209,209
+Artkal,S79,Light gray,187,188,188
+Artkal,S80,Dark olive,153,155,48
+Artkal,S81,Deer,205,178,119
+Artkal,S82,Clay,181,129,80
+Artkal,S83,Sienna,184,97,37
+Artkal,S84,Deep chestnut,170,87,97
+Artkal,S85,Red wine,92,19,27
+Artkal,S86,Goldenrod,234,170,0
+Artkal,S87,Coral red,255,109,106
+Artkal,S88,Dark pink,218,24,132
+Artkal,S89,Charcoal gray,72,73,73
+Artkal,S90,Pastel orange,255,197,110
+Artkal,S91,Brunswick green,24,48,40
+Artkal,S92,-,222,185,71
+Artkal,S93,-,218,182,152
+Artkal,S94,-,244,169,153
+Artkal,S95,-,238,125,103
+Artkal,S96,-,240,134,97
+Artkal,S97,-,212,114,42
+Artkal,S98,-,100,172,223
+Artkal,S99,-,100,194,220
+Artkal,S100,-,79,159,179
+Artkal,S101,-,49,150,221
+Artkal,S102,-,27,108,182
+Artkal,S103,-,8,57,128
+Artkal,S104,-,10,102,139
+Artkal,S105,-,8,91,110
+Artkal,S106,-,0,78,120
+Artkal,S107,-,0,85,116
+Artkal,S108,-,204,190,128
+Artkal,S109,-,164,147,80
+Artkal,S110,-,158,136,60
+Artkal,S111,-,118,108,43
+Artkal,S112,-,121,95,38
+Artkal,S113,-,186,184,162
+Artkal,S114,-,114,140,84
+Artkal,S115,-,126,124,68
+Artkal,S116,-,100,105,46
+Artkal,S117,-,78,88,44
+Artkal,S118,-,74,94,45
+Artkal,S119,-,113,196,182
+Artkal,S120,-,102,204,153
+Artkal,S121,-,86,154,131
+Artkal,S122,-,20,164,91
+Artkal,S123,-,24,168,24
+Artkal,S124,-,4,85,46
+Artkal,S125,-,19,107,90
+Artkal,S126,-,5,70,65
+Artkal,S127,-,217,182,214
+Artkal,S128,-,173,98,164
+Artkal,S129,-,230,140,163
+Artkal,S130,-,222,84,121
+Artkal,S131,-,158,130,186
+Artkal,S132,-,232,65,107
+Artkal,S133,-,183,56,143
+Artkal,S134,-,88,31,126
+Artkal,S135,-,140,163,212
+Artkal,S136,-,154,154,204
+Artkal,S137,-,89,129,193
+Artkal,S138,-,65,102,176
+Artkal,S139,-,71,95,171
+Artkal,S140,-,55,69,147
+Artkal,S141,-,61,86,165
+Artkal,S142,-,41,66,153
+Artkal,S143,-,37,38,138
+Artkal,S144,-,26,47,111
+Artkal,S145,-,211,201,93
+Artkal,S146,-,81,9,24
+Artkal,S147,-,100,179,158
+Artkal,S148,-,99,67,56
+Artkal,S149,-,237,211,158
+Artkal,S150,-,105,99,171
+Artkal,S151,-,43,63,31
+Artkal,S152,-,151,145,197
+Artkal,S153,-,184,189,224
+Artkal,S154,-,249,200,152
+Artkal,S155,-,195,144,105
+Artkal,S156,-,68,80,91
+Artkal,S157,-,62,73,85
+Artkal,S158,-,32,40,48
+Artkal,S159,Oslo gray,136,139,141
+Artkal,ST1,Clear,199,188,184
+Artkal,ST2,Clear pink,249,84,152
+Artkal,ST3,Clear orange,255,124,69
+Artkal,ST4,Clear yellow,218,223,61
+Artkal,ST5,Clear green,15,174,88
+Artkal,ST6,Clear purple,132,119,179
+Artkal,SL1,Glitter blue,54,135,178
+Artkal,SL2,Glitter green,17,124,82
+Artkal,SL3,Glitter red,194,41,51
+Artkal,SL4,Glitter yellow,205,189,0
+Artkal,SP1,Pearl green,147,202,135
+Artkal,SP2,Pearl orange,254,127,84
+Artkal,SP3,Pearl yellow,240,161,73
+Artkal,SP4,Pearl pink,220,158,169
+Artkal,SP5,Pearl red,214,60,83
+Artkal,SP6,Pearl blue,44,78,151
+Artkal,SP7,Pearl purple,100,66,126
+Artkal,SP8,Pearl white,224,219,202
+Artkal,SG1,Glow in the dark yellow,198,192,180
+Artkal,SG2,Glow in the dark pink,223,171,188
+Artkal,SG3,Glow in the dark blue,111,173,193
+Artkal,SN1,Neon orange,255,116,5
+Artkal,SN2,Neon green,1,198,62
+Artkal,SN3,Neon yellow,242,243,60
+Artkal,SN4,Neon pink,255,71,122
+Nabbi,N01,Black,58,61,65
+Nabbi,N02,Dark brown,80,68,59
+Nabbi,N03,Chestnut,90,62,54
+Nabbi,N04,Wine red,129,53,71
+Nabbi,N05,Rust,167,98,36
+Nabbi,N06,Cappuccino,173,150,126
+Nabbi,N07,Skin,238,177,130
+Nabbi,N08,Grey,141,139,127
+Nabbi,N09,Dark green,47,74,57
+Nabbi,N10,Light grey,211,203,203
+Nabbi,N11,Purple,100,69,145
+Nabbi,N12,Light beige,226,208,191
+Nabbi,N13,Orange,243,96,27
+Nabbi,N14,Yellow,249,202,0
+Nabbi,N15,White,244,244,243
+Nabbi,N16,Green,41,122,59
+Nabbi,N17,Clear blue,59,117,203
+Nabbi,N18,Antique pink,225,180,171
+Nabbi,N19,Red,223,38,56
+Nabbi,N20,Light brown,181,139,105
+Nabbi,N21,Light yellow,245,236,141
+Nabbi,N22,Light green,72,175,79
+Nabbi,N23,Blue,113,163,230
+Nabbi,N24,Light purple,182,160,219
+Nabbi,N25,Pink,238,106,151
+Nabbi,N26,Apricot,252,168,121
+Nabbi,N27,Brown,135,95,82
+Nabbi,N28,Light blue,167,198,241
+Nabbi,N29,Light orange,238,149,39
+Nabbi,N30,Olive green,199,191,94
+Perler,P01,White,241,241,241
+Perler,P02,Creme,224,222,169
+Perler,P03,Yellow,236,216,0
+Perler,P04,Orange,237,97,32
+Perler,P05,Red,191,46,64
+Perler,P06,Bubblegum,221,102,155
+Perler,P07,Purple,96,64,137
+Perler,P08,Dark blue,43,63,135
+Perler,P09,Light blue,51,112,192
+Perler,P10,Dark green,28,117,62
+Perler,P11,Light green,86,186,159
+Perler,P12,Brown,81,57,49
+Perler,P17,Grey,138,141,145
+Perler,P18,Black,46,47,50
+Perler,P20,Rust,140,55,44
+Perler,P21,Light brown,129,93,52
+Perler,P33,Peach,238,186,178
+Perler,P35,Tan,188,147,113
+Perler,P38,Magenta,242,42,123
+Perler,P47,Neon yellow,220,224,2
+Perler,P48,Neon orange,255,119,0
+Perler,P49,Neon green,1,158,67
+Perler,P50,Neon pink,255,57,145
+Perler,P52,Pastel blue,83,144,209
+Perler,P53,Pastel green,118,200,130
+Perler,P54,Pastel lavender,138,114,193
+Perler,P56,Pastel yellow,254,248,117
+Perler,P57,Cheddar,241,170,12
+Perler,P58,Toothpaste,147,200,212
+Perler,P59,Hot coral,255,56,81
+Perler,P60,Plum,162,75,156
+Perler,P61,Kiwi lime,108,190,19
+Perler,P62,Turquoise,43,137,198
+Perler,P63,Blush,255,130,133
+Perler,P70,Periwinkle blue,100,124,190
+Perler,P75,Glow in the dark green,190,198,150
+Perler,P79,Light pink,246,179,221
+Perler,P80,Green,79,173,66
+Perler,P83,Pink,228,72,146
+Perler,P85,Gold metallic,187,118,52
+Perler,P88,Raspberry,165,48,97
+Perler,P90,Butterscotch,212,132,55
+Perler,P91,Parrot green,6,124,129
+Perler,P92,Dark grey,77,81,86
+Perler,P93,Blueberry cream,130,151,217
+Perler,P96,Cranapple,128,50,69
+Perler,P97,Prickly pear,189,218,1
+Perler,P98,Sand,228,182,144
+Perler,P100,Pearl coral,249,126,121
+Perler,P101,Pearl light blue,122,174,162
+Perler,P102,Pearl green,132,183,145
+Perler,P103,Pearl yellow,202,192,51
+Perler,P104,Pearl light pink,215,168,162
+Perler,P105,Pearl silver,119,123,129
+Perler,P179,Evergreen,53,83,67
+Perler,P181,Light grey (new),177,181,178
+Perler,P182,Light lavender,173,152,212
+Perler,18,Black,0,0,0
+Perler,01,White,255,255,255
+Perler,79,Light Pink,245,200,230
+Perler,06,Bubblegum,240,130,175
+Perler,08,Pink,205,95,165
+Perler,76,Magenta,190,60,150
+Perler,88,Raspberry,180,70,115
+Perler,99,Cranapple,160,50,95
+Perler,59,Hot Coral,255,140,115
+Perler,26,Red,205,70,90
+Perler,83,Rust,185,90,80
+Perler,63,Peach,250,195,195
+Perler,90,Butterscotch,245,150,100
+Perler,04,Orange,255,115,80
+Perler,92,Creme,240,230,210
+Perler,62,Sand,220,200,175
+Perler,56,Pastel Yellow,255,235,170
+Perler,03,Yellow,255,235,85
+Perler,57,Cheddar,250,185,85
+Perler,67,Prickly Pear,175,205,125
+Perler,61,Kiwi Lime,125,210,80
+Perler,53,Pastel Green,185,225,180
+Perler,11,Light Green,190,215,180
+Perler,69,Green,115,195,155
+Perler,10,Dark Green,45,140,105
+Perler,91,Parrot Green,0,150,95
+Perler,58,Toothpaste,160,215,225
+Perler,52,Pastel Blue,170,220,255
+Perler,62T,Turquoise,95,200,225
+Perler,49,Light Blue,120,190,235
+Perler,08D,Dark Blue,35,90,145
+Perler,93P,Periwinkle Blue,105,145,185
+Perler,54,Pastel Lavender,155,135,200
+Perler,70,Plum,175,50,140
+Perler,07,Purple,120,95,155
+Perler,21,Tan,205,165,115
+Perler,41,Light Brown,160,135,100
+Perler,12,Brown,105,90,60
+Perler,97,Grey,155,155,155
+Perler,92D,Dark Grey,95,100,100
+Perler,93B,Blueberry Cream,140,180,255
+LEGO,0,Black,5,19,29
+LEGO,4,Red,201,26,9
+LEGO,14,Yellow,242,205,55
+LEGO,15,White,255,255,255
+LEGO,19,Tan,228,205,158
+LEGO,25,Orange,254,138,24
+LEGO,27,Lime,187,233,11
+LEGO,28,Dark Tan,149,138,115
+LEGO,70,Reddish Brown,88,42,18
+LEGO,71,Light Bluish Gray,160,165,169
+LEGO,72,Dark Bluish Gray,108,110,104
+LEGO,73,Medium Blue,90,147,219
+LEGO,78,Light Nougat,246,215,179
+LEGO,84,Medium Nougat,170,125,85
+LEGO,85,Dark Purple,63,54,145
+LEGO,92,Nougat,208,145,104
+LEGO,191,Bright Light Orange,248,187,61
+LEGO,212,Bright Light Blue,159,195,233
+LEGO,226,Bright Light Yellow,255,240,58
+LEGO,272,Dark Blue,10,52,99
+LEGO,288,Dark Green,24,70,50
+LEGO,297,Pearl Gold,170,127,46
+LEGO,308,Dark Brown,53,33,0
+LEGO,320,Dark Red,114,14,15
+LEGO,321,Dark Azure,7,139,201
+LEGO,322,Medium Azure,54,174,191
+LEGO,323,Light Aqua,173,195,192
+LEGO,326,Olive Green,155,154,90
+LEGO,378,Sand Green,160,188,172
+LEGO,379,Sand Blue,96,116,161
+LEGO,484,Dark Orange,169,85,0
+LEGO,10,Bright Green,75,159,74
+LEGO,19,Tan,228,205,158
+LEGO,25,Orange,254,138,24
+LEGO,27,Lime,187,233,11
+LEGO,84,Medium Nougat,170,125,85
+LEGO,92,Nougat,208,145,104
+LEGO,191,Bright Light Orange,248,187,61
+LEGO,212,Bright Light Blue,159,195,233
+LEGO,226,Bright Light Yellow,255,240,58
+LEGO,272,Dark Blue,10,52,99
+LEGO,288,Dark Green,24,70,50
+LEGO,320,Dark Red,114,14,15
+LEGO,321,Dark Azure,7,139,201
+LEGO,322,Medium Azure,54,174,191
+LEGO,323,Light Aqua,173,195,192
+LEGO,326,Olive Green,155,154,90
+LEGO,378,Sand Green,160,188,172
+LEGO,379,Sand Blue,96,116,161
+LEGO,484,Dark Orange,169,85,0
+LEGO,14,Yellow,242,205,55
+LEGO,15,White,255,255,255
+LEGO,0,Black,5,19,29
+LEGO,71,Light Bluish Gray,160,165,169
+LEGO,72,Dark Bluish Gray,108,110,104
+LEGO,70,Reddish Brown,88,42,18

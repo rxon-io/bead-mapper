@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Dataset (downloaded automatically by torchvision on first training run)
+data/stl10_binary/
+data/stl10_binary.tar.gz
+
+# Model checkpoints produced by training (only the shipped best model is tracked)
+models/*.pth
+!models/autoencoder_model_best.pth
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,15 @@
+palette_idx,brand,code,color_name,r,g,b,count
+0,LEGO,0,Black,5,19,29,230
+31,LEGO,10,Bright Green,75,159,74,108
+2,LEGO,14,Yellow,242,205,55,28
+3,LEGO,15,White,255,255,255,528
+16,LEGO,191,Bright Light Orange,248,187,61,4
+20,LEGO,288,Dark Green,24,70,50,2
+23,LEGO,320,Dark Red,114,14,15,2
+30,LEGO,484,Dark Orange,169,85,0,2
+8,LEGO,70,Reddish Brown,88,42,18,6
+9,LEGO,71,Light Bluish Gray,160,165,169,20
+10,LEGO,72,Dark Bluish Gray,108,110,104,4
+12,LEGO,78,Light Nougat,246,215,179,4
+13,LEGO,84,Medium Nougat,170,125,85,2
+15,LEGO,92,Nougat,208,145,104,84
